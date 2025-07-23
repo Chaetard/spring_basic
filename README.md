@@ -82,4 +82,4 @@ Se devuelve al cliente una lista JSON con las tareas.
 
 ---
 
-Este esquema y explicación te ayudarán a entender cómo cada clase y capa tiene un propósito específico y cómo se conectan para brindar una API REST limpia y funcional para administrar tareas. ¿Quieres que te prepare también un diagrama visual o algo más?
+made whit GPT and Love
