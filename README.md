@@ -82,4 +82,4 @@ Se devuelve al cliente una lista JSON con las tareas.
 
 ---
 
-made whit GPT and Love
+made with GPT and Love
